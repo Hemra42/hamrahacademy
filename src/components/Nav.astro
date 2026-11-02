@@ -26,7 +26,11 @@ const { nav } = site;
       <div class="menu-links">
         {nav.links.map((l) => <a class="t-body-m menu-link" href={l.href}>{l.label}</a>)}
       </div>
-      <div><Button href={nav.demo.href}>{nav.demo.label}</Button></div>
+      <div class="buttons">
+        <Button href={nav.login.href} variant="ghost">{nav.login.label}</Button>
+        <Button href={nav.demo.href}>{nav.demo.label}</Button>
+
+      </div>
     </div>
   </nav>
 </div>

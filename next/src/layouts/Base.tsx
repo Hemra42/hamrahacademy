@@ -41,6 +41,9 @@ export default function Base({ route, title, description, image = '/assets/site/
       <meta property="og:url" content={canonical} />
       <meta property="og:image" content={ogImage} />
       <meta name="twitter:card" content="summary_large_image" />
+      {/* <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet"></link> */}
       {/* Next already marks its not-found page noindex; one tag is enough. */}
       {noindex && route !== '/404/' && <meta name="robots" content="noindex" />}
       {!bare && <Nav />}

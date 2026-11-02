@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "Page not found — Lapse",
-    "description": "This page could not be sourced."
+    "title": "صفحه مورد نظر پیدا نشد - آکادمی همراه",
+    "description": "صفحه ای با این مشخصات پیدا نشد."
   },
   "eyebrow": "404",
-  "title": "Sorry, we can’t find that page",
-  "body": "The agent won't invent untraceable answers. This page won't either. What you seek isn't here.",
+  "title": "با عرض پوزش، چنین صفحه ای یافت نشد.",
+  "body": "متاسفانه آدرس صفحه ای که به آن آمده اید وجود ندارد.",
   "button": {
-    "label": "Back to Home page",
+    "label": "بازگشت به صفحه نخست",
     "href": "/"
   },
   "shards": {

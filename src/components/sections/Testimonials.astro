@@ -4,7 +4,7 @@ import Icon from '../ui/Icon.astro';
 const { testimonials } = home;
 const [first, second] = testimonials.title.split('\n');
 ---
-<section class="testimonials">
+<section dir="ltr" class="testimonials">
   <div class="testimonials-panel">
     <div class="waves" data-fx="flow-lines" aria-hidden="true"></div>
     <div class="testimonials-title"><h2 class="t-h2 balance">{first}<br />{second}</h2></div>

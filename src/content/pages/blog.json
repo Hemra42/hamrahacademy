@@ -1,24 +1,24 @@
 {
   "meta": {
-    "title": "Blog — Lapse",
-    "description": "What we have learned reading other people’s inboxes. We publish what we can measure and what we got wrong, once a month.",
-    "postTitleSuffix": " — Lapse"
+    "title": "وبلاگ - آکادمی همراه",
+    "description": "مطالبی که در راه همراهی با شما در زمینه آموزش زبان انگلیسی یاد گرفته ایم را با شما به اشتراک می گذاریم.",
+    "postTitleSuffix": " — آکادمی همراه"
   },
   "hero": {
-    "eyebrow": "Blog",
-    "heading": "What we have learned reading other people’s inboxes",
-    "blurb": "We publish what we can measure and what we got wrong. Once a month.",
-    "read": "Read"
+    "eyebrow": "وبلاگ",
+    "heading": "مطالبی که در همراهی با شما یاد گرفته ایم",
+    "blurb": "محتوایی که به نظرمون برای بهتر شدن تجربه زبان آموزان مون کمک می کنند رو اینجا به اشتراک می گذاریم.",
+    "read": "مطالعه کنید"
   },
   "tabs": [
-    { "label": "All", "value": "" },
+    { "label": "همه", "value": "" },
     { "label": "Data", "value": "Data" },
     { "label": "Practice", "value": "Practice" },
     { "label": "Product", "value": "Product" },
     { "label": "Operations", "value": "Operations" }
   ],
-  "tabsLabel": "Filter posts by category",
-  "empty": "Nothing filed under this one yet.",
+  "tabsLabel": "پست ها رو با دسته بندی شون فیلتر کنین",
+  "empty": "فعلا هیچ موردی طبق این دسته بندی ثبت نشده.",
   "metaSeparator": "*",
-  "related": "Related reading"
+  "related": "مطالب مرتبط"
 }

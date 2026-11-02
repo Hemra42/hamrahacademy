@@ -1,20 +1,19 @@
 {
-  "brand": "Lapse",
+  "brand": "آکادمی همراه",
   "nav": {
     "links": [
-      { "href": "/about", "label": "About" },
-      { "href": "/pricing", "label": "Pricing" },
-      { "href": "/contact", "label": "Contact" },
-      { "href": "/blog", "label": "Blog" }
+      { "href": "/about", "label": "درباره" },
+      { "href": "/pricing", "label": "تعرفه ها" },
+      { "href": "/blog", "label": "وبلاگ" }
     ],
-    "login": { "href": "/contact", "label": "Login" },
-    "demo": { "href": "/contact", "label": "Request a demo" }
+    "login": { "href": "/contact", "label": "تماس با ما" },
+    "demo": { "href": "/contact", "label": "ثبت نام" }
   },
   "cta": {
-    "headingMuted": "Answer our customers ",
-    "heading": "while they are still at the keyboard",
-    "description": "Two weeks in shadow mode. Nothing sends without you.",
-    "button": { "href": "/contact", "label": "Request a demo" },
+    "headingMuted": "آکادمی همراه ",
+    "heading": "در کنار شماست در هر قدم یادگیری و استفاده از زبان انگلیسی در زندگی روزمره",
+    "description": "همین الان می توانید کلاس آزمایشی تان را به صورت رایگان رزرو کنید",
+    "button": { "href": "/contact", "label": "ثبت نام" },
     "image": "/assets/site/handshake-particles.webp",
     "imageAlt": "Two figures made of light particles shaking hands over a particle field"
   },

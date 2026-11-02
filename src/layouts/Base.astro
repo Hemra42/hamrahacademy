@@ -24,7 +24,7 @@ const ogImage = new URL(image, Astro.site);
 const analytics = import.meta.env.PUBLIC_VERCEL_ANALYTICS === 'true';
 ---
 <!doctype html>
-<html lang="en">
+<html lang="fa-IR" dir="RTL">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -47,7 +47,7 @@ const analytics = import.meta.env.PUBLIC_VERCEL_ANALYTICS === 'true';
       <slot />
     </main>
     {!bare && <Footer />}
-    <StoreBadge />
+    <!-- <StoreBadge /> -->
     <script>
       import '../scripts/entry';
     </script>

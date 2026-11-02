@@ -28,7 +28,7 @@ const pad = (n: number) => String(n).padStart(2, '0');
     <p class="t-body-s">{form.note}</p>
   </form>
   <div class="aside">
-    {[email, phone].map((c) => (
+    {[email].map((c) => (
       <a class="touch-card contact-card" href={c.href}>
         <span class="t-eyebrow">{c.label}</span>
         <span class="t-label value">{c.value}</span>

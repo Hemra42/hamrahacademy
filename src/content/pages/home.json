@@ -1,43 +1,43 @@
 {
   "meta": {
-    "title": "Lapse — support agent for inboxes that never empty",
-    "description": "Lapse reads every message, sorts it, answers the common queries and hands your team the ones that need a person. Two weeks in shadow mode, nothing sends without you."
+    "title": "آکادمی همراه: همراه شما در هر قدم زندگی در انگلستان؛ ارائه دهنده کلاس های مکالمه محور تخصصی",
+    "description": "ما دو برادر همرا و زکریا هستیم که کلاس های مکالمه محور تخصصی برای ایرانیان مقیم انگلستان  ارائه می کنیم تا با همراهی ما بتوانید اعتماد به نفس خود را در گفتگوی روزمره زبان انگلیسی به دست بیاورید."
   },
   "hero": {
-    "eyebrow": "Support agent for inboxes that never empty",
-    "title": "Your team handles the tough ones. ",
-    "titleMuted": "Lapse takes the rest.",
-    "description": "It reads every message, sorts it, answers common queries, and hands your team the ones that need a person.",
+    "eyebrow": "تمرین مکالمه زبان انگلیسی با:",
+    "title": "آکادمی همراه",
+    "titleMuted": " درکنار شما در مسیر یادگیری زبان انگلیسی و زندگی در انگلستان",
+    "description": "همرا و زکریا هستیم؛ برادرانی که در کنار شما قدم برمیداریم تا مطمئن شویم می توانید با اعتماد به نفس انگلیسی صحبت می کنید.",
     "button": {
       "href": "/contact",
-      "label": "Request a demo"
+      "label": "رزرو کلاس رایگان"
     },
     "background": "/assets/home/hero-fabric.webp",
     "backgroundAlt": "Soft folded fabric in low light",
-    "screenshot": "/assets/home/inbox.webp",
-    "screenshotAlt": "Lapse inbox showing new and waiting conversations",
+    "screenshot": "/assets/home/hero.webp",
+    "screenshotAlt": "",
     "stats": [
       {
-        "value": "74%",
-        "label": "Answered without a person"
+        "value": "99%",
+        "label": "رضایت زبان آموزان از کلاس های مکالمه محور"
       },
       {
-        "value": "40s",
-        "label": "Median first reply"
+        "value": "7 سال",
+        "label": "سابقه تدریس درآموزشگاه ها و کلاس های خصوصی"
       },
       {
-        "value": "4.8",
-        "label": "CSAT on the replies Lapse sent"
+        "value": "2",
+        "label": "مدرسان زبان انگلیسی: همرا و زکریا"
       }
     ]
   },
   "changes": {
-    "eyebrow": "What changes",
-    "title": "What changes for the people doing the work",
+    "eyebrow": "خدمات ما",
+    "title": "کلاس های زبان انگلیسی ما شامل چه مواردی هستند؟",
     "cards": [
       {
-        "title": "The queue stops being frightening",
-        "description": "Monday morning has forty messages, not nine hundred. The backlog becomes a manageable list.",
+        "title": "کلاس های تک جلسه ای آزمایشی",
+        "description": "اگر مطمئن نیستید که خدمات ما برایتان مناسب هست یا خیر می توانید این جلسات 20 دقیقه ای آزمایشی را - به صورت رایگان - رزرو کنید!",
         "image": "/assets/home/change-queue.webp",
         "imageAlt": "Close-up of soft grey fabric",
         "panel": {
@@ -57,8 +57,8 @@
         }
       },
       {
-        "title": "Your team gets the interesting half",
-        "description": "Support people excel at helping the angry, strange, and broken, but order-status questions are taking over.",
+        "title": "کلاس های آمادگی قبل از جلسات مهم",
+        "description": "اگر جلسه مهمی در آینده دارید که می خواهید برای آن آماده شوید می توانید در این کلاس ها ثبت نام کنید.",
         "image": "/assets/home/change-handover.webp",
         "imageAlt": "Folded linen in raking light",
         "panel": {
@@ -75,8 +75,8 @@
         }
       },
       {
-        "title": "Customers stop waiting overnight",
-        "description": "A reply at two AM is as good as one at two PM, and no one is on night shift to prove otherwise.",
+        "title": "کلاس های مکالمه محور",
+        "description": "زمانی هم که می خواهید به صورت مکالمه محور و چند جلسه ای زبان انگلیسی را یاد بگیرید می توانید در این کلاس ها شرکت کنید.",
         "image": "/assets/home/change-overnight.webp",
         "imageAlt": "Rippled sand at night",
         "panel": {
@@ -90,8 +90,8 @@
         }
       },
       {
-        "title": "Nobody on the team gets replaced",
-        "description": "Teams kept headcount, but overtime and weekend cover reduced. If you need redundancies, we aren’t the vendor.",
+        "title": "کمک های مختلف برای ترجمه و امور اداری",
+        "description": "همینطور در صورتی هم که نیاز به ترجمه یا نوشتن نامه یا از این دست قبیل داشتید می توانید روی ما حساب کنید.",
         "image": "/assets/home/change-ninety.webp",
         "imageAlt": "Windblown sand ridges",
         "panel": {
@@ -124,114 +124,134 @@
     ]
   },
   "how": {
-    "eyebrow": "How it works",
-    "title": "Four steps, and you can watch every one of them",
-    "body": "There is no step where it decides something you cannot see afterwards. Every reply keeps the article it came from, and every handover keeps its reason.",
+    "eyebrow": "چه جوریه؟",
+    "title": "در چهار قدم می توانید خدمات ما را دریافت کنید.",
+    "body": "خیلی سریع می توانید در مورد خدمات زبان انگلیسی ما اطلاعات کسب کرده و در صورت رضایت در این کلاس ها شرکت کنید.",
     "steps": [
       {
-        "title": "Reads",
-        "description": "Every message, from every channel, with that customer’s history and open order.",
+        "title": "زمان کلاس رایگان را انتخاب کنید",
+        "description": "در چند ثانیه یک زمان مناسب انتخاب کنید. هر نفر یک کلاس رایگان دارد.",
         "image": "/assets/home/step-reads.webp",
         "imageAlt": "Light radiating from a single point"
       },
       {
-        "title": "Sorts",
-        "description": "Topic, urgency and language. Anything that reads as upset moves up the queue.",
+        "title": "در کلاس رایگان شرکت کنید",
+        "description": "در یک جلسه‌ی حدود 20 دقیقه‌ای، یک موقعیت واقعی را با هم تمرین می‌کنیم و سطح شما را می‌سنجیم.",
         "image": "/assets/home/step-sorts.webp",
         "imageAlt": "Fine parallel threads fanning out"
       },
       {
-        "title": "Answers",
-        "description": "From your help centre, in your tone, with the article attached so anyone can check it.",
+        "title": "نیازتان را بگویید و برنامه‌تان را انتخاب کنید",
+        "description": "در پایان کلاس با هم درباره‌ی نیازهای شما حرف می‌زنیم و مناسب‌ترین برنامه را پیشنهاد می‌دهیم.",
         "image": "/assets/home/step-answers.webp",
         "imageAlt": "Soft folds catching light"
       },
       {
-        "title": "Hands over",
-        "description": "What it cannot source goes to a person, with the context gathered and a draft written.",
+        "title": "دوره شروع می‌شود",
+        "description": "زمان جلسه‌ها را طوری تعیین می‌کنیم که برای شما و برای ما مناسب باشد، از جمله شب‌ها و آخر هفته‌ها.",
         "image": "/assets/home/step-hands-over.webp",
         "imageAlt": "Two surfaces meeting at an edge"
       }
     ]
   },
   "testimonials": {
-    "title": "Three months in,\nin their words",
+    "title": "دیدگاه زبان آموزان آکادمی همراه",
     "quotes": [
       {
-        "quote": "Our queue hasn’t been above forty since March. The part I did not expect is that people stopped dreading Monday.",
-        "name": "Dela Mensah",
-        "role": "Head of Support, Northline",
+        "quote": "آکادمی همراه خیلی به من توی زندگی در انگلستان کمک کرده و باعث شده اعتماد به نفس بیشتری در صحبت کردن به انگلیسی داشته باشم.",
+        "name": "شبنم مرادی",
+        "role": "زبان آموز، انگلستان",
         "icon": true
       },
       {
-        "quote": "I read the first four hundred replies it sent. I have not read one since August, and CSAT went up, not down.",
-        "name": "Joakim Lind",
-        "role": "Support Manager, Two Rivers",
+        "quote": "کلاس هایی که دارند خیلی برنامه خوبی دارند و طبق زمان هایی که من آزاد هستم برام برنامه ریخته اند که باعث میشه بدون مشکل در کلاس ها شرکت کنم.",
+        "name": "فاطمه شرقی",
+        "role": "زبان آموز، انگلستان",
         "icon": true
       },
       {
-        "quote": "We told it to hand over anything about money. It still closes two thirds of the queue on its own, and the third it passes over arrives with the history already attached.",
-        "name": "Nadia Haddad",
-        "role": "Director of Customer Experience, Arc Supply",
-        "icon": false
+        "quote": "با اینکه کلاس های زبان انگلیسی کالج رو شرکت می کنم، گاهی اوقات توضیحات یک همزبان میتونه بیشتر بهم توی فهم موضوعات زبان انگلیسی کمک کنه.",
+        "name": "نادیا حداد",
+        "role": "زبان آموز، انگلستان",
+        "icon": true
       },
       {
-        "quote": "The two weeks of shadow mode are what sold it. We read every draft before it went, and by the end we were arguing about commas, not about accuracy.",
-        "name": "Sofia Kettner",
-        "role": "Head of Operations, Bellhaven",
+        "quote": "در مورد موقعیت های واقعی مثل رفتن به دکتر، مصاحبه شغلی، جمله ها و عبارت های مربوط به محل کار خیلی چیزهای خوبی ازشون یادگرفتم که برام کاربردی بوده اند.",
+        "name": "یاسا محمدی",
+        "role": "زبان آموز، انگلستان",
         "icon": false,
         "compact": true
       }
     ]
   },
   "pricing": {
-    "eyebrow": "Pricing",
-    "title": "You pay when the customer stops writing"
+    "eyebrow": "قیمت ها",
+    "title": "هزینه های مقرون به صرفه برای کلاس های کارآمد"
   },
   "faq": {
     "eyebrow": "FAQ",
-    "title": "The awkward questions first",
+    "title": "سوالاتی که احتمالا در ذهنتان دارید",
     "card": {
-      "title": "Still have questions?",
-      "text": "You’re in good hands from here.",
+      "title": "سوال جدیدی دارید؟",
+      "text": "می تونید از ما سوالتون رو بپرسید.",
       "button": {
         "href": "/contact",
-        "label": "Contact us"
+        "label": "تماس با ما"
       }
     },
     "items": [
       {
-        "q": "What if it answers something wrong?",
-        "a": "Every reply keeps the help centre article it was written from, so a wrong answer is traceable in one click rather than a mystery. When it cannot source something it does not improvise — the conversation goes to a person with the context gathered and a draft written. For the first two weeks nothing sends without you."
+        "q": "کلاس رایگان واقعاً رایگان است؟ تعهدی دارد؟",
+        "a": "بله، کاملاً رایگان است و هیچ تعهدی ندارد. در پایان کلاس برنامه‌ها را معرفی می‌کنیم و هر وقت خواستید تصمیم می‌گیرید. هر نفر یک کلاس رایگان دارد."
       },
       {
-        "q": "Will customers know they are talking to an agent?",
-        "a": "Yes. It introduces itself as an agent, in wording you approve, and it never pretends to be a named person on your team. Asking for a human is enough to move the conversation across, with the full history attached."
+        "q": "اگر انگلیسی‌ام خیلی ضعیف است چه؟",
+        "a": "مشکلی نیست. در کلاس رایگان سطح شما را می‌سنجیم و تمرین‌ها را متناسب با همان سطح تنظیم می‌کنیم. بسیاری از دانشجویان ما حرف دیگران را می‌فهمند اما در لحظه‌ی صحبت کلمه‌ها را پیدا نمی‌کنند، و دقیقاً برای همین اینجاییم."
       },
       {
-        "q": "Are we buying this to cut our support team?",
-        "a": "Not from us. The teams running Lapse kept their headcount — what dropped was overtime, weekend cover and the Monday backlog. It takes the order-status half so your people get the half that needs judgement. If the business case is redundancies, we are the wrong vendor."
+        "q": "کلاس‌ها چه شکلی هستند؟",
+        "a": "هر جلسه یک موقعیت واقعی دارد، مثل وقت گرفتن از پزشک یا تماس با شرکت برق و گاز. اول با هم تمرین می‌کنیم، بعد نقش‌ها را عوض می‌کنیم و در پایان خودتان گفت‌وگو را بدون کمک انجام می‌دهید. بیشتر وقت کلاس شما صحبت می‌کنید."
       },
       {
-        "q": "Our help centre is a mess. Is that a dealbreaker?",
-        "a": "No, and it is usually the reason to start. It only answers what it can source from your articles, so a thin help centre means fewer automatic replies, never invented ones. The weekly gap report lists the questions that had no article behind them — a to-do list in the order your customers actually ask."
+        "q": "کلاس‌ها به چه زبانی برگزار می‌شوند؟",
+        "a": "تا جای ممکن به انگلیسی، اما فارسی هم کنارتان است. هر جا لازم باشد، یک نکته را به فارسی توضیح می‌دهیم یا استرس را کم می‌کنیم، و دوباره به انگلیسی برمی‌گردیم."
       },
       {
-        "q": "What happens with an angry customer?",
-        "a": "Sorting reads urgency and tone, so anything that reads as upset moves up the queue instead of waiting behind order-status questions. Those conversations go to a person with the history and a draft ready, not to a cheerful template. Your team keeps the hard ones; that is the point."
+        "q": "کلاس‌ها در چه ساعتی برگزار می‌شوند؟",
+        "a": "همه‌ی زمان‌ها به وقت بریتانیا نشان داده می‌شود. برای کسانی که کار می‌کنند، شب و آخر هفته هم کلاس داریم."
       },
       {
-        "q": "What does week one look like?",
-        "a": "Day one is connecting the inbox and syncing the help centre. After that it runs in shadow: it drafts, you read and sign, and nothing reaches a customer without you. The replies you sign are what it learns your tone from, and at the end of the two weeks you switch on sending for the categories you trust."
-      }
+        "q": "کلاس‌ها حضوری است یا آنلاین؟",
+        "a": "آنلاین. فقط یک گوشی یا کامپیوتر و اینترنت لازم دارید، و همین کار را از هر جای بریتانیا ممکن می‌کند."
+      },
+      {
+        "q": "می‌توانید در مورد مسائل پزشکی، حقوقی یا ویزای من راهنمایی کنید؟",
+        "a": "نه. ما زبان یاد می‌دهیم، نه مشاوره. به شما کمک می‌کنیم درباره‌ی این موضوع‌ها به انگلیسی صحبت کنید و سؤال درست را بپرسید، اما برای تصمیم‌گیری باید با متخصص مجاز مشورت کنید."
+      },
+      {
+        "q": "اطلاعات و مدارکم محرمانه می‌ماند؟",
+        "a": "بله. بدون اجازه‌ی صریح شما هیچ جلسه‌ای ضبط نمی‌شود و هیچ چیز منتشر نمی‌شود. برای تمرین ترجیحاً از نمونه‌ی نامه و قبض ساختگی استفاده می‌کنیم، نه مدارک واقعی شما."
+      },
+      {
+        "q": "اگر نتوانستم سر کلاس بیایم چه؟",
+        "a": "اگر حداقل ۲۴ ساعت قبل خبر بدهید، جلسه را بدون مشکل به زمان دیگری منتقل می‌کنیم."
+      },
+      {
+        "q": "هزینه‌ی کلاس‌ها چقدر است و چطور پرداخت می‌شود؟",
+        "a": "قیمت هر برنامه در همین صفحه نوشته شده است. پرداخت بعد از کلاس رایگان و فقط وقتی برنامه را انتخاب کردید انجام می‌شود، از طریق لینک پرداخت امن."
+      },
+      {
+        "q": "آیا ترجمه یا کمک با نامه‌ها و فرم‌ها هم دارید؟",
+        "a": "بله، به‌عنوان خدمت جانبی. می‌توانیم نامه‌های اداری، بانکی و پزشکی را توضیح بدهیم و در نوشتن ایمیل و پر کردن فرم‌های روزمره کمک کنیم. فرم‌های مهاجرتی را نمی‌پذیریم. برای قیمت و جزئیات، با ما صحبت کنید."
+      }   
     ]
   },
   "blog": {
-    "eyebrow": "News center",
-    "title": "What we have learned reading other people’s inboxes",
+    "eyebrow": "اخبار و نوشته ها",
+    "title": "مطالبی که در مسیر همراهی با شما یاد گرفته ایم",
     "button": {
       "href": "/blog",
-      "label": "View more articles"
+      "label": "مقاله‌های بیشتر"
     }
   }
 }

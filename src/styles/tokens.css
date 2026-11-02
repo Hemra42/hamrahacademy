@@ -1,5 +1,8 @@
 /* Colour and type tokens, read from the Framer project's colour styles and
    text styles. Breakpoints: Desktop >= 1200, Tablet 810-1199, Phone < 810. */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
 :root {
   --black: rgb(16, 16, 16);
   --white: rgb(255, 255, 255);
@@ -8,9 +11,10 @@
   --surface: rgba(255, 255, 255, 0.05);
   --grey-20: rgba(163, 163, 163, 0.2);
 
-  --font: 'Figtree Variable', 'Figtree', system-ui, sans-serif;
-  --font-mono: 'Fragment Mono', ui-monospace, 'SF Mono', Menlo, monospace;
-  --font-logo: 'Climate Crisis Variable', 'Climate Crisis', system-ui, sans-serif;
+  /* --font: 'Figtree Variable', 'Figtree', system-ui, sans-serif; */
+  --font: "IBM Plex Sans Arabic", 'Figtree', system-ui, sans-serif;
+  --font-mono: "IBM Plex Sans Arabic", ui-monospace, 'SF Mono', Menlo, monospace;
+  --font-logo: "IBM Plex Sans Arabic", 'Climate Crisis', system-ui, sans-serif;
 
   --canvas: 1200px;
   --radius: 16px;

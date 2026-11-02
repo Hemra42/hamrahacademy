@@ -3,7 +3,7 @@ import home from '../../content/pages/home.json';
 const { changes } = home;
 const [queue, handover, overnight, ninety] = changes.cards;
 ---
-<section class="changes" id="what-changes" data-fx="horizontal-track">
+<section dir="ltr" class="changes" id="what-changes" data-fx="horizontal-track">
   <div class="changes-stage">
     <div class="title-row">
       <div class="changes-title">
@@ -14,11 +14,11 @@ const [queue, handover, overnight, ninety] = changes.cards;
     <div class="changes-viewport">
       <div class="changes-track">
         {changes.cards.map((card, i) => (
-          <article class="changes-card">
+          <article dir="RTL" class="changes-card">
             <h3 class="t-h4">{card.title}</h3>
             <div class="scene">
               <img class="scene-bg" src={card.image} alt={card.imageAlt} width="1000" height="681" loading="lazy" />
-              {i === 0 && (
+              {/* {i === 0 && (
                 <div class="changes-panel changes-panel--queue">
                   <div class="changes-head"><p class="mono-s grow">{queue.panel.label}</p><p class="mono-s">{queue.panel.status}</p></div>
                   <div class="count">
@@ -66,7 +66,7 @@ const [queue, handover, overnight, ninety] = changes.cards;
                     ))}
                   </div>
                 </div>
-              )}
+              )} */}
             </div>
             <p class="t-body-m changes-desc">{card.description}</p>
           </article>

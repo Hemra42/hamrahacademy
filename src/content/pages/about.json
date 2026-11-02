@@ -1,18 +1,18 @@
 {
   "meta": {
-    "title": "About — Lapse",
-    "description": "Eleven people, one product, one rule: we do not sell headcount reduction."
+    "title": "درباره - آکادمی همراه",
+    "description": "دو برادر، تدریس مکالمه محور زبان، یک قانون: همراه شما هستیم در مسیر یادگیری زبان انگلیسی."
   },
   "hero": {
-    "title": "We are creating what we desired as the ones answering.",
-    "description": "Support started, not in a lab. Eleven people, one product, one rule: we declined money.",
+    "title": "آکادمی همراه - درکنار شما هستیم در مسیر یادگیری و استفاده از زبان انگلیسی با اعتماد به نفس",
+    "description": "در همه مسیر همراهتان هستیم تا زبان انگلیسی را در محیط های کاربردی از قبیل مراجعه به پزشک، جلسات مشاوره و امور اداری بتوانید استفاده کنید.",
     "photo": {
       "src": "/assets/about/office-team.webp",
-      "alt": "Five people in Lapse t-shirts talking around a desk",
+      "alt": "برادران همرا و زکریا در کنار شما در مسیر یادگیری زبان انگلیسی",
       "width": 1536,
       "height": 651
     },
-    "trustedLabel": "Trusted by global leaders",
+    "trustedLabel": "مورد اعتماد زبان آموزان",
     "logos": [
       {
         "name": "Corvane",
@@ -45,22 +45,21 @@
     ]
   },
   "story": {
-    "eyebrow": "About",
-    "title": "Support was the first job everyone tried to automate and got wrong.",
+    "eyebrow": "درباره ما",
+    "title": "صحبت کردن به زبان انگلیسی در محیط های واقعی به اعتماد به نفس و مهارت نیازمند است.",
     "body": [
-      "The last decade’s answer was a widget in the corner of the page that asked you to rephrase your question four times and then offered to open a ticket. It did not save anyone money. It moved the cost onto the customer and called it self-service.",
-      "The mistake was in the framing. Support was treated as a cost to remove rather than a queue to clear. Once you decide the goal is fewer people, every product decision that follows is a small cruelty to somebody.",
-      "We started from the other end. A support queue is mostly the same fifteen questions, asked by people who are mildly annoyed and would like an answer before lunch. Almost none of it needs a person. The part that does needs a person badly, and needs them unhurried.",
-      "So Lapse takes the first part and protects the second. That is the whole idea, and everything in the product exists to keep those two halves separate."
+      "ما در آکادمی همراه کار را با یک جلسه‌ی رایگان شروع می‌کنیم. در این جلسه‌ی کوتاه، حدود بیست دقیقه، با هم یک موقعیت واقعی را تمرین می‌کنیم؛ مثلاً گرفتن وقت از پزشک عمومی یا صحبت با پشتیبانی شرکت برق و گاز. سطح شما را می‌شناسیم، بازخورد می‌دهیم و جمله‌ها و عبارت‌های کاربردی همان موقعیت را برایتان می‌گذاریم تا همراه ببرید. هدف ما این نیست که شما را با درس‌های کلی و دور از زندگی روزمره سرگرم کنیم، بلکه می‌خواهیم همان چیزی را تمرین کنید که فردا واقعاً به آن نیاز دارید.",
+      "بعد از جلسه‌ی رایگان، برنامه‌ای متناسب با نیاز خودتان می‌چینیم. شاید مشکل شما مکالمه‌ی تلفنی باشد که برای بسیاری از زبان‌آموزان سخت‌ترین بخش است، شاید فهمیدن نامه‌های اداری و پر کردن فرم‌ها، یا توضیح دادن علائم بیماری و مشکلات به پزشک. هر جلسه یک موقعیت مشخص دارد: اول با هم تمرین می‌کنیم، بعد نقش‌ها را عوض می‌کنیم و در پایان، خودتان بدون کمک مکالمه را انجام می‌دهید. زمان جلسه‌ها هم با شما هماهنگ می‌شود و به ساعت بریتانیا برگزار می‌شود، با امکان کلاس در شب و آخر هفته برای کسانی که کار می‌کنند.",
+      "ما به شما کمک می‌کنیم زبان را یاد بگیرید و بتوانید خودتان در موقعیت‌های مهم صحبت کنید، اما مشاوره‌ی پزشکی، حقوقی یا مهاجرتی نمی‌دهیم؛ کار ما آماده کردن شماست تا با اعتماد به نفس این گفت‌وگوها را خودتان انجام دهید. اگر آماده‌اید قدم اول را برداریم، همین حالا جلسه‌ی رایگان خود را رزرو کنید. ما، زکریا و همرا، منتظر شما هستیم تا در این مسیر همراهتان باشیم."
     ]
   },
   "rules": {
-    "eyebrow": "Our rules",
-    "title": "We will not build the version of this that replaces your team",
+    "eyebrow": "قوانین ما",
+    "title": "قوانینی که همواره به آنها پایبند هستیم",
     "items": [
       {
-        "number": "01 RULE",
-        "text": "We do not sell headcount reduction, and we will not put it in a proposal.",
+        "number": "قانون 01",
+        "text": "ما زبان یاد می‌دهیم، مشاوره نمی‌دهیم. ",
         "texture": {
           "src": "/assets/about/rule-texture-1.webp",
           "alt": "Folded fabric lit from the side",
@@ -69,8 +68,8 @@
         }
       },
       {
-        "number": "02 RULE",
-        "text": "We do not charge per seat. Adding a teammate should never cost you money.",
+        "number": "قانون 02",
+        "text": "آنچه در کلاس گفته می‌شود، محرمانه می‌ماند.",
         "texture": {
           "src": "/assets/about/rule-texture-2.webp",
           "alt": "Close ridges in low light",
@@ -79,8 +78,8 @@
         }
       },
       {
-        "number": "03 RULE",
-        "text": "We publish what we refuse to automate, and the list gets longer, not shorter.",
+        "number": "قانون 03",
+        "text": "بیشتر وقت کلاس شما صحبت می‌کنید، آن هم به انگلیسی.",
         "texture": {
           "src": "/assets/about/rule-texture-3.webp",
           "alt": "A soft crease catching light",
@@ -89,8 +88,8 @@
         }
       },
       {
-        "number": "04 RULE",
-        "text": "Every reply says it came from an agent. That is not a setting.",
+        "number": "قانون 04",
+        "text": "شما برای اشتباه کردن در کلاس ها سرزنش نمی شوید.",
         "texture": {
           "src": "/assets/about/rule-texture-4.webp",
           "alt": "Layered fabric edge in low light",
@@ -101,39 +100,23 @@
     ]
   },
   "team": {
-    "eyebrow": "Who is here",
-    "title": "Most of us have been on the other side of the queue.",
+    "eyebrow": "چه کسانی اینجا هستند؟",
+    "title": "ما نیز همواره زبان آموز هستیم و در این مسیر همراه شماییم.",
     "people": [
       {
-        "name": "Marcus Oyelaran",
-        "role": "Co-founder",
+        "name": "همرا",
+        "role": "معلم زبان انگلیسی",
         "photo": {
           "src": "/assets/about/team-marcus-oyelaran.webp",
           "alt": "Marcus Oyelaran in profile, smiling"
         }
       },
       {
-        "name": "Priya Raman",
-        "role": "Co-founder",
+        "name": "زکریا",
+        "role": "معلم زبان انگلیسی",
         "photo": {
           "src": "/assets/about/team-priya-raman.webp",
           "alt": "Priya Raman laughing, hand on chin"
-        }
-      },
-      {
-        "name": "Renata Vasquez",
-        "role": "Operations",
-        "photo": {
-          "src": "/assets/about/team-renata-vasquez.webp",
-          "alt": "Renata Vasquez at a desk"
-        }
-      },
-      {
-        "name": "Ines Duarte",
-        "role": "Support lead",
-        "photo": {
-          "src": "/assets/about/team-ines-duarte.webp",
-          "alt": "Ines Duarte smiling in a Lapse t-shirt"
         }
       }
     ]

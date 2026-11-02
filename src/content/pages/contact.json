@@ -1,27 +1,26 @@
 {
   "meta": {
-    "title": "Contact — Lapse",
-    "description": "Tell us what your inbox looks like. We answer in a working day, and the two-week shadow trial costs nothing."
+    "title": "تماس با ما - آکادمی همراه",
+    "description": "بهمون بگین نیازهاتون در رابطه با یادگیری زبان انگلیسی چیه تا بتونیم بهتون کمک کنیم"
   },
-  "eyebrow": "Contact",
-  "title": "Tell us what your inbox looks like",
-  "blurb": "We answer within a working day, usually sooner. If you would rather watch it run before deciding, ask for the two-week shadow trial.",
+  "eyebrow": "تماس با ما",
+  "title": "بهمون بگین نیازتون برای یادگیری انگلیسی چیه",
+  "blurb": "معمولا در کمتر از یک روز بهتون پاسخ میدیم و نیازهای زبان انگلیسی تون رو براورده می کنیم.",
   "form": {
     "fields": [
-      { "label": "Name", "name": "Name", "type": "text", "placeholder": "Jane Okafor", "required": true, "autocomplete": "name" },
-      { "label": "Work email", "name": "Work email", "type": "email", "placeholder": "jane@company.com", "required": true, "autocomplete": "email" },
-      { "label": "Company", "name": "Company", "type": "text", "placeholder": "Where you work", "required": false, "autocomplete": "organization" },
-      { "label": "What are you dealing with?", "name": "Message", "type": "textarea", "placeholder": "", "required": false }
+      { "label": "اسم شما", "name": "name", "type": "text", "placeholder": "محمد محمدی", "required": true, "autocomplete": "name" },
+      { "label": "ایمیل شما", "name": "email", "type": "email", "placeholder": "mohammad@gmail.com", "required": true, "autocomplete": "email" },
+      { "label": "چه نیاز هایی در زمینه زبان انگلیسی دارید؟", "name": "message", "type": "textarea", "placeholder": "", "required": false }
     ],
     "submit": {
-      "idle": "Send it",
-      "sending": "Sending…",
-      "success": "Thanks — we’ll reply",
-      "error": "That did not send — try again"
+      "idle": "ارسال",
+      "sending": "در حال ارسال",
+      "success": "ممنون؛ بهتون پاسخ خواهیم داد",
+      "error": "ارسال نشد؛ دوباره تلاش کنید."
     },
-    "note": "We use this to answer you. Nothing else, and no sequence."
+    "note": "ما فقط برای پاسخ دادن به شما از این فرم استفاده می کنیم و نه چیز دیگه ای."
   },
-  "email": { "label": "Email", "value": "hello@example.com", "href": "mailto:hello@example.com" },
+  "email": { "label": "Email", "value": "hamrah.ac.eng@gmail.com", "href": "mailto:hamrah.ac.eng@gmail.com" },
   "phone": { "label": "Phone", "value": "+1 555 555 0123", "href": "tel:+15555550123" },
   "next": {
     "title": "What happens next",
