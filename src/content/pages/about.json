@@ -107,16 +107,16 @@
         "name": "همرا",
         "role": "معلم زبان انگلیسی",
         "photo": {
-          "src": "/assets/about/team-marcus-oyelaran.webp",
-          "alt": "Marcus Oyelaran in profile, smiling"
+          "src": "/assets/about/hemra.webp",
+          "alt": "Hemra, English teacher"
         }
       },
       {
         "name": "زکریا",
         "role": "معلم زبان انگلیسی",
         "photo": {
-          "src": "/assets/about/team-priya-raman.webp",
-          "alt": "Priya Raman laughing, hand on chin"
+          "src": "/assets/about/zachshirow.webp",
+          "alt": "Zachary, English teacher"
         }
       }
     ]
